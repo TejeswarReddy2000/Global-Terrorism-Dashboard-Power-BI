@@ -13,7 +13,7 @@ Getting Started
 2. Clone or Download the Repository:
 bash
 3. Copy code
-git clone https://github.com/TejeswarReddy2000/global-terrorism-dashboard.git
+https://github.com/TejeswarReddy2000/Global-Terrorism-Dashboard-Power-BI/blob/main/README.md
 Open the .pbix File in Power BI Desktop: Find the downloaded file and open it to start exploring the dashboard.
 
 Data Source
